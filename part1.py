@@ -14,5 +14,5 @@ Thing to remember is self is nothing but the object name."""
         print ("Hello! My name is "+self.name+" and colour is " + self.colour)
 
 
-r= Robot("Surya","Red")
-r.hello()
+#r= Robot("Surya","Red")
+#r.hello()
